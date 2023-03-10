@@ -1,0 +1,47 @@
+/*
+Theme Name: Brastelha Theme
+Author: Your Name
+Author URI: http://www.yourwebsite.com
+Description: My first responsive HTML5 theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.btn-success {
+    background-color: rgb(4, 172, 36) !important;
+    border: solid 1px rgb(4, 172, 36) !important;
+}
+
+.btn-success:hover {
+    background-color: rgb(33, 136, 56) !important;
+    border: solid 1px rgb(33, 136, 56) !important;
+}
+
+.btn-dark {
+    background-color: rgb(34, 39, 123) !important;
+    border: solid 1px rgb(34, 39, 123) !important;
+}
+
+.btn-dark:hover {
+    background-color: rgb(25, 39, 108) !important;
+    border: solid 1px rgb(25, 39, 108) !important;
+}
+
+.btn-outline-dark {
+    border: solid 1px rgb(255, 255, 255) !important;
+}
+
+h2 {
+    color: #22317b !important;
+}
