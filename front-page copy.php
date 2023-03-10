@@ -78,7 +78,7 @@
 
                 <div class="col-md-6">
                     <div class="card bg-light border-1" style="background-color: #22317b;">
-                        <img src="<?php bloginfo('template_url') ?>/assets/img/telhas.webp" class="card-img mb-5 mb-md-0" width="100%" height="100%" style="border: solid 24px #22317b !important;" alt="...">
+                        <img src="<?php bloginfo('template_url') ?>/assets/img/telha-1.png" class="card-img mb-5 mb-md-0" width="100%" height="100%" style="border: solid 24px #22317b !important;" alt="...">
                         <div class="card-img-overlay h-100 d-flex flex-column justify-content-end text-center text-white p-0">
                             <div class="bg-dark px-4 pt-3 rounded-bottom" style="background-color: #22317b !important;">
                                 <h3 class="card-title mb-0 fw-bold fs-2">TELHAS</h3>
@@ -92,7 +92,7 @@
 
                 <div class="col-md-6">
                     <div class="card bg-light border-1" style="background-color: #From its medieval origins to the digital era, learn e;">
-                        <img src="<?php bloginfo('template_url') ?>/assets/img/pisos.webp" class="card-img mb-5 mb-md-0" width="100%" height="100%" style=" border: solid 24px #22317b !important;" alt="...">
+                        <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/pisos.jpg" class="card-img mb-5 mb-md-0" width="100%" height="100%" style=" border: solid 24px #22317b !important;" alt="...">
                         <div class="card-img-overlay h-100 d-flex flex-column justify-content-end text-center text-white p-0">
                             <div class="bg-dark px-4 pt-3 rounded-bottom" style="background-color: #22317b !important;">
                                 <h3 class="card-title mb-0 fw-bold fs-2">PISOS</h3>
