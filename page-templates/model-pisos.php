@@ -56,7 +56,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/foto-3-cinzza-natural.png" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Natural</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Natural</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -64,7 +64,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/foto-4-grafite.png" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Grafite</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Grafite</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/linha-granilite/cinza-prata-fino.webp" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Prata Fino</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Prata Fino</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/linha-granilite/cinza-prata-medio.webp" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Prata Médio</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Prata Médio</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/linha-granilite/cinza-mescla.webp" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Mescla</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Mescla</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -120,7 +120,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/linha-granilite/cinza-chumbo.webp" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Cinza Chumbo</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Cinza Chumbo</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php bloginfo('template_url') ?>/assets/img/pisos/linha-granilite/branco-ouro.webp" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>Branco Ouro</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>Branco Ouro</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php // bloginfo('template_url') ?>/assets/img/pisos/telha-dummy.png" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>&nbsp;</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>&nbsp;</small></h6>
                                 </div>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                             <div class="card bg-light h-100 d-flex d-flex-column justify-content-center">
                                 <img src="<?php // bloginfo('template_url') ?>/assets/img/pisos/telha-dummy.png" width="100%" height="100%" class="card-img mb-4 mb-md-0" alt="...">
                                 <div class="card-img-overlay h-100 d-flex flex-column justify-content-end">
-                                    <h5 class="card-title text-secondary mb-0"><small>&nbsp;</small></h5>
+                                    <h6 class="card-title text-secondary mb-0"><small>&nbsp;</small></h6>
                                 </div>
                             </div>
                         </div>
